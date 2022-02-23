@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kit-studio-test/static/css/main.4b8a0c8d.css",
+    "main.js": "/kit-studio-test/static/js/main.4fd70e73.js",
+    "static/js/787.2122eb61.chunk.js": "/kit-studio-test/static/js/787.2122eb61.chunk.js",
+    "index.html": "/kit-studio-test/index.html",
+    "main.4b8a0c8d.css.map": "/kit-studio-test/static/css/main.4b8a0c8d.css.map",
+    "main.4fd70e73.js.map": "/kit-studio-test/static/js/main.4fd70e73.js.map",
+    "787.2122eb61.chunk.js.map": "/kit-studio-test/static/js/787.2122eb61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b8a0c8d.css",
+    "static/js/main.4fd70e73.js"
+  ]
+}
